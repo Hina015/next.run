@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image';
 const page = () => {
   return (
-<div>Home page</div>
+    <div>Hina Ejaz</div>
   )
 }
 
